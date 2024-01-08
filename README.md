@@ -1,2 +1,2 @@
 # online-calculator
-Mini Calculator in PHP
+Mini Calculator developed with HTML, CSS, BOOTSTRAP and PHP..... Unfortunately, no Javascript
